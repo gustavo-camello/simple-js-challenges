@@ -1,0 +1,18 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: white;
+}
+
+#btn{
+  padding: 10px;
+  border: none;
+  background-color: yellowgreen;
+  border-radius: 10px;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  outline: none;
+}
